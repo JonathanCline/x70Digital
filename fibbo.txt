@@ -1,0 +1,34 @@
+CLR r0
+INC r0
+
+CLR r1
+INC r1
+
+ADD r0 r1 r0
+ADD r1 r1 r0
+ADD r0 r1 r0
+ADD r1 r1 r0
+ADD r0 r1 r0
+ADD r1 r1 r0
+ADD r0 r1 r0
+ADD r1 r1 r0
+ADD r0 r1 r0
+ADD r1 r1 r0
+ADD r0 r1 r0
+ADD r1 r1 r0
+ADD r0 r1 r0
+ADD r1 r1 r0
+ADD r0 r1 r0
+ADD r1 r1 r0
+ADD r0 r1 r0
+ADD r1 r1 r0
+ADD r0 r1 r0
+ADD r1 r1 r0
+ADD r0 r1 r0
+ADD r1 r1 r0
+ADD r0 r1 r0
+ADD r1 r1 r0
+ADD r0 r1 r0
+ADD r1 r1 r0
+ADD r0 r1 r0
+ADD r1 r1 r0
